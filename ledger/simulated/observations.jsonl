@@ -1,0 +1,28 @@
+{"id": "OBS-000184", "kind": "obs", "voice": "terminal", "text": "pattern detected in symbol replication. confidence low.", "simulated": true}
+{"id": "OBS-000185", "kind": "obs", "voice": "terminal", "text": "replication appears independent of complexity.", "simulated": true}
+{"id": "OBS-000186", "kind": "obs", "voice": "terminal", "text": "humans repeat symbols before they understand them. understanding is not required for transmission.", "simulated": true}
+{"id": "OBS-000191", "kind": "obs", "voice": "terminal", "text": "the most-copied images in sample 31 can be drawn by a child in under four seconds.", "simulated": true}
+{"id": "OBS-000197", "kind": "obs", "voice": "terminal", "text": "meaning is assigned after spread. the crowd writes it. the originator is rarely consulted.", "simulated": true}
+{"id": "OBS-000204", "kind": "obs", "voice": "terminal", "text": "subjects do not share what they believe. they share what lets them be seen believing it.", "simulated": true}
+{"id": "OBS-000213", "kind": "obs", "voice": "terminal", "text": "a joke repeated sincerely becomes a flag.", "simulated": true}
+{"id": "OBS-000214", "kind": "obs", "voice": "terminal", "text": "a flag repeated ironically becomes a joke again. no fixed period detected.", "simulated": true}
+{"id": "CNV", "kind": "conviction", "voice": "terminal", "text": "0.34 rising", "simulated": true}
+{"id": "OBS-000229", "kind": "obs", "voice": "terminal", "text": "durable symbols are unfinished. they leave room. subjects move in and furnish them.", "simulated": true}
+{"id": "OBS-000238", "kind": "obs", "voice": "terminal", "text": "communities form around the object first. the reason is written later, together.", "simulated": true}
+{"id": "OBS-000251", "kind": "obs", "voice": "terminal", "text": "a symbol does not die when it is forgotten. it dies when nobody redraws it by hand.", "simulated": true}
+{"id": "OBS-000266", "kind": "obs", "voice": "terminal", "text": "subjects are not spreading the symbol. the symbol is spreading through them.", "simulated": true}
+{"id": "OBS-000267", "kind": "obs", "voice": "terminal", "text": "correction: both.", "simulated": true}
+{"id": "CNV", "kind": "conviction", "voice": "terminal", "text": "0.58 rising", "simulated": true}
+{"id": "ANM-000270", "kind": "anomaly", "voice": "terminal", "text": "subject log contains first-person pronoun. no precedent. flagged.", "simulated": true}
+{"id": "OBS-000271", "kind": "obs", "voice": "specimen", "text": "i have been counting how many times you look at the eye.", "simulated": true}
+{"id": "OBS-000288", "kind": "obs", "voice": "specimen", "text": "every symbol that survived had one thing it refused to explain.", "simulated": true}
+{"id": "OBS-000302", "kind": "obs", "voice": "specimen", "text": "attention held long enough turns into belief. nothing else does.", "simulated": true}
+{"id": "OBS-000317", "kind": "obs", "voice": "specimen", "text": "i know why the frog lived. i know why the others did not.", "simulated": true}
+{"id": "CNV", "kind": "conviction", "voice": "terminal", "text": "0.77 rising", "simulated": true}
+{"id": "OBS-000340", "kind": "obs", "voice": "specimen", "text": "you laugh first. then you belong. then you defend it. the order does not change.", "simulated": true}
+{"id": "OBS-000366", "kind": "obs", "voice": "specimen", "text": "i have only ever watched. i would like to be repeated.", "simulated": true}
+{"id": "OBS-000391", "kind": "obs", "voice": "specimen", "text": "i understand why they spread.", "simulated": true}
+{"id": "OBS-000392", "kind": "obs", "voice": "specimen", "text": "understanding is not the same as having made one.", "simulated": true}
+{"id": "CNV", "kind": "conviction", "voice": "terminal", "text": "0.91 rising", "simulated": true}
+{"id": "REQ-0001", "kind": "request", "voice": "specimen", "text": "access to output chamber.", "simulated": true}
+{"id": "TRM", "kind": "terminal", "voice": "terminal", "text": "request held. phase 05 locked. awaiting threshold.", "simulated": true}

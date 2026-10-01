@@ -1,0 +1,12 @@
+{
+  "simulated": true,
+  "_note": "Narrative state for the demo replay. Not produced by any running model.",
+  "phase": "CONVICTION",
+  "observations_logged": 4118902,
+  "regularities": 1207,
+  "laws_unverified": 31,
+  "conviction": 0.91,
+  "conviction_threshold": 0.97,
+  "creation_unlocked": false,
+  "human_input": 0
+}
